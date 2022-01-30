@@ -4,8 +4,14 @@
  https://drive.google.com/file/d/1os4AcADopBN9ecPN8_XQq8aomYV1PTvz/view
  <br><br>
  
-# in Anaconda prompt 
+# In Anaconda prompt (run on administrative mode)
+```
+// to see all the available environments.
+$ conda info --envs
+// to activate the invironment:
+$ conda activate [environment_path]
+// to deactivate: conda deactivate
+$ conda deactivate
+``` 
 
-## to activate the invironment: conda activate [environment_name]
 
-## to deactivate: conda deactivate
